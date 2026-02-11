@@ -1,7 +1,11 @@
 # Olá, eu sou o José Miguel Vieira 👋  
+<img src="./assets/sonic.gif.gif" width="90" align="right"/>
+
 ### Designer & Desenvolvedor Full Stack
 
-Sou designer e desenvolvedor full stack, formado em Informática para Internet pela FAETEC (RJ) e atualmente cursando Engenharia de Software na UBM.
+
+
+Sou designer e desenvolvedor full stack, técnico em Informática para Internet pela FAETEC (RJ) e atualmente cursando Engenharia de Software na UBM.
 
 Atuo no desenvolvimento de aplicações web completas, com foco em frontend, APIs REST, autenticação, arquitetura de software e integração com banco de dados.
 
@@ -42,3 +46,5 @@ Tenho experiência no desenvolvimento de produtos do zero até produção, unind
     src="https://streak-stats.demolab.com?user=josemiguelvieira&theme=tokyonight&hide_border=true"
   />
 </p>
+
+
