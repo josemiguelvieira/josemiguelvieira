@@ -1,6 +1,4 @@
 # Olá, eu sou o José Miguel Vieira 👋  
-<img src="./assets/sonic.png" width="90" align="right"/>
-
 ### Designer & Desenvolvedor Full Stack
 
 
@@ -46,5 +44,14 @@ Tenho experiência no desenvolvimento de produtos do zero até produção, unind
     src="https://streak-stats.demolab.com?user=josemiguelvieira&theme=tokyonight&hide_border=true"
   />
 </p>
+
+---
+
+## 🚀 Vamos contruir algo incrível
+
+<p align="center">
+  <img src="./assets/sonic.png" width="150"/>
+</p>
+
 
 
