@@ -1,13 +1,11 @@
 # Olá, eu sou o José Miguel Vieira 👋  
 ### Designer & Desenvolvedor Full Stack
 
+Sou desenvolvedor full stack com formação técnica em Informática para Internet pela FAETEC (RJ) e atualmente cursando Engenharia de Software na UBM.
 
+Atuo no desenvolvimento de aplicações web completas, com foco em frontend moderno, APIs REST, autenticação segura, arquitetura de software e integração com bancos de dados relacionais.
 
-Sou designer e desenvolvedor full stack, técnico em Informática para Internet pela FAETEC (RJ) e atualmente cursando Engenharia de Software na UBM.
-
-Atuo no desenvolvimento de aplicações web completas, com foco em frontend, APIs REST, autenticação, arquitetura de software e integração com banco de dados.
-
-Tenho experiência no desenvolvimento de produtos do zero até produção, unindo engenharia, design de interface e boas práticas de código para criar soluções escaláveis e bem estruturadas.
+Tenho experiência na construção de produtos do zero até produção, unindo engenharia, design de interface e boas práticas de código para criar soluções escaláveis, organizadas e preparadas para o mundo real.
 
 ---
 
@@ -29,10 +27,10 @@ Tenho experiência no desenvolvimento de produtos do zero até produção, unind
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## 🧠 Linguagens & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,java,spring,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,java,spring,postgres,mysql,git&theme=dark" />
 </p>
 
 ---
@@ -47,11 +45,8 @@ Tenho experiência no desenvolvimento de produtos do zero até produção, unind
 
 ---
 
-## 🚀 Vamos contruir algo incrível
+## 🚀 Vamos construir algo incrível juntos
 
 <p align="center">
   <img src="./assets/sonic.png" width="150"/>
 </p>
-
-
-
