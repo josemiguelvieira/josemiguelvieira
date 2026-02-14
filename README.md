@@ -1,5 +1,5 @@
 # Olá, eu sou o José Miguel Vieira 👋  
-<img src="./assets/sonic.gif.gif" width="90" align="right"/>
+<img src="./assets/sonic.png" width="90" align="right"/>
 
 ### Designer & Desenvolvedor Full Stack
 
