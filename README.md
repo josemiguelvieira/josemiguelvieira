@@ -1,4 +1,4 @@
-# Olá, eu sou o José Miguel Vieira 👋  
+# Olá, eu sou o José Miguel Coelho 👋  
 ### Designer & Desenvolvedor Full Stack
 
 Sou desenvolvedor full stack com formação técnica em Informática para Internet pela FAETEC (RJ) e atualmente cursando Engenharia de Software na UBM.
