@@ -39,7 +39,7 @@ Tenho experiência na construção de produtos do zero até produção, unindo e
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=josemiguelvieira&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=josemiguelcoelho&theme=tokyonight&hide_border=true"
   />
 </p>
 
